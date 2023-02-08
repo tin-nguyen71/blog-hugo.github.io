@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://blog-hugo.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 14:52:12 +0700</lastBuildDate><atom:link href="https://blog-hugo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://blog-hugo.github.io/posts/mypost/</link>
+      <pubDate>Wed, 08 Feb 2023 14:52:12 +0700</pubDate>
+      
+      <guid>https://blog-hugo.github.io/posts/mypost/</guid>
+      <description>This is some content abc</description>
+    </item>
+    
+    <item>
+      <title>Post Tiltle</title>
+      <link>https://blog-hugo.github.io/posts/post/</link>
+      <pubDate>Wed, 08 Feb 2023 14:27:40 +0700</pubDate>
+      
+      <guid>https://blog-hugo.github.io/posts/post/</guid>
+      <description>This is some content abc</description>
+    </item>
+    
+  </channel>
+</rss>
